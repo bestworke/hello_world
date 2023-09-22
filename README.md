@@ -1,2 +1,1 @@
-# hello_world
-my first computer,very thankful.
+print("hello world")
